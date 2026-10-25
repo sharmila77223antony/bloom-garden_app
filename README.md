@@ -21,7 +21,7 @@ A beautiful React web experience featuring glass-inspired flowers, magical seaso
 ## 🚀 Run Locally
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone (https://github.com/sharmila77223antony/bloom-garden_app.git)
 cd bloom-garden
 npm install
 npm run dev
