@@ -68,7 +68,7 @@ export default function Footer() {
 
         <div className="footer-socials">
           <a
-            href="https://github.com/sharmila77223antony"
+            href="https://github.com/sharmila77223antony/bloom-garden_app"
             target="_blank"
             rel="noopener noreferrer"
             className="github-link"
