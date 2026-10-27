@@ -9,6 +9,7 @@ const links = [
   { name: "Season", to: "/season", page: true },
   { name: "Gallery", to: "/gallery", page: true },
   { name: "Story", to: "/story", page: true },
+  { name: "Blog", to: "/blog", page: true },
 ];
 
 export default function Navbar() {

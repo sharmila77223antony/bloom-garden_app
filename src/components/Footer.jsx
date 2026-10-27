@@ -7,6 +7,7 @@ const footerLinks = [
   { name: "Seasons", href: "/season" },
   { name: "Gallery", href: "/gallery" },
   { name: "Story", href: "/story" },
+  { name: "Blog", href: "/blog" },
 ];
 
 export default function Footer() {

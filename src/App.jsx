@@ -9,6 +9,8 @@ import Flower from "./pages/Flower";
 import Season from "./pages/Season";
 import Gallery from "./pages/Gallery";
 import Story from "./pages/Story";
+import Blog from "./pages/Blog";
+import BlogDetail from "./pages/BlogDetail";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -37,6 +39,7 @@ export default function App() {
           <Route path="/season" element={<Season />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/story" element={<Story />} />
+          <Route path="/blog" element={<Blog />} />
         </Routes>
       </main>
 
